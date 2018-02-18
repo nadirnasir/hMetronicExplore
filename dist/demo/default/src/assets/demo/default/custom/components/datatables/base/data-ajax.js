@@ -14,7 +14,7 @@ var DatatableRemoteAjaxDemo = function() {
           read: {
             // sample GET method
             method: 'GET',
-            url: 'https://keenthemes.com/metronic/preview/inc/api/datatables/demos/default.php',
+            url: 'inc/api/datatables/demos/default.php',
             map: function(raw) {
               // sample data mapping
               var dataSet = raw;

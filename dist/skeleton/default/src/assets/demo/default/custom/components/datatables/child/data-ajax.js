@@ -12,7 +12,7 @@ var DatatableChildRemoteDataDemo = function() {
         type: 'remote',
         source: {
           read: {
-            url: 'https://keenthemes.com/metronic/preview/inc/api/datatables/demos/customers.php',
+            url: 'inc/api/datatables/demos/customers.php',
           },
         },
         pageSize: 10, // display 20 records per page
