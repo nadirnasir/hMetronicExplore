@@ -456,8 +456,8 @@
                 }
             }
         },
-        "demon": {
-            "defaultn": {
+        "demo": {
+            "default": {
                 "base": {
                     "src": {
                         "styles": [
